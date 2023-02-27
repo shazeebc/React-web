@@ -1,0 +1,73 @@
+.cs1{
+    padding-top: 2%;
+  text-decoration: underline;
+}
+.add{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2%;
+    margin-left: 10%;
+ 
+}
+.add1{
+    font-weight: bolder;
+    font-size: x-large;
+}
+.add2{
+    font-weight: bolder;
+}
+ .add2{
+  }
+   .add3 .inname{
+    font-weight: bolder;
+  }
+   .add3 input{
+    width: 80%;
+   margin-top: 1%;
+    padding: 10px 300px 10px 10px;
+    border-radius: 5px 5px;
+    outline: none;
+    background-color: white;
+  }
+  .width{
+    width: 80%;
+  }
+  .add3 .inemail{
+    font-weight: bolder;
+    margin-top: 1%;
+    color: black;
+  }
+   .add3 .inmessage{
+    font-weight: bolder;
+    margin-top: 1%;
+    color: black;
+  }
+   .message1 textarea{
+   padding: 10px 10px 10px 5px;
+   font-weight: bold;
+   outline: none;
+   
+  }
+  .send{
+    margin-top: 5%;
+    margin-left: 63%;
+  }
+ .send a{
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: x-large;
+    color:black;
+    border: 1px solid black;
+    border-radius: 5px 5px;
+    padding: 10px 10px;
+  }
+   .send a:hover{
+     border: none;
+    background-color:black;
+    box-shadow: 0 0 20px 0;
+      color: #FFCB42;
+      transform: scale(1.05); 
+  }
+  .add .add1 i{
+    color: #FFCB42;
+  }

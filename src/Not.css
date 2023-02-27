@@ -1,0 +1,10 @@
+.notback{
+    background-color: black;
+    height: 90vh;
+}
+.notback .table{
+    text-align: center;
+    align-items: center;
+     color: white; 
+     padding-top: 15%;      
+}

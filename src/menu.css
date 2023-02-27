@@ -1,0 +1,68 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+/* .menu1{
+    background-image: linear-gradient(rgb(240, 237, 237), rgb(173, 163, 163));
+    height: 90vh;
+} */
+.what-on {
+   text-align: center;
+   text-decoration: underline;
+   margin-top: 1%;
+   font-size: x-large;
+   font-family: 'Abril Fatface', cursive;
+font-family: 'Arizonia', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Mr Dafoe', cursive;
+font-family: 'Permanent Marker', cursive;
+} */
+/* .menuimg1{
+  display: flex;
+   justify-content: space-between
+
+} */
+ /* .card {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    border: none;
+    background-color: #fff;
+    background-clip: border-box;
+   
+} */
+.card img{
+    height: 20vh;
+    width: 70%;
+    border-radius: 50px; 
+    margin-top: 1%;
+}
+/* .py-4 {
+    display: flex;
+} */
+.content1{
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 2%;
+    
+}
+.menu1 .css-1ri6ub7-MuiPaper-root-MuiCard-root{
+    margin-top: 2%;
+    box-shadow:  none;
+    text-align: center;
+    /* width: 23%; */
+    
+}
+.css-o69gx8-MuiCardMedia-root {
+height: 30vh;
+width: 50%;
+border-radius: 40%;
+}
+
+.link{
+    text-decoration: none;
+}

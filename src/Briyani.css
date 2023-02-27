@@ -1,0 +1,55 @@
+
+h1{
+    text-align: center;
+    /* text-decoration: underline; */
+    font-family: 'Abril Fatface', cursive;
+font-family: 'Arizonia', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Mr Dafoe', cursive;
+font-family: 'Permanent Marker', cursive;
+}
+.css-1ri6ub7-MuiPaper-root-MuiCard-root{
+    margin-top: 2%;
+}
+.doone{
+    border-radius: 20%;
+}
+  .biryani img{
+        border-radius: 0%;
+        height: 40vh;
+        
+    }
+    .briyani{
+        background-color: black;
+    
+    }
+  
+
+    .doone :hover{
+     cursor: pointer;
+     transform: scale(1.02);
+     
+ 
+     
+    }
+    #ber :hover{
+        
+      
+    }
+    .rs1{
+        display: flex;
+    }
+    .rs2 {
+        margin-top: 4%;
+        margin-left: 19%;
+        font-weight: bolder;
+        font-size: large;
+    }
+    .btn19 button{
+        padding: 5px 5px;
+        text-align: center;
+        align-items: center;
+        margin-left: 40%;
+        font-weight: bolder;
+    }
